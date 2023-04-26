@@ -309,24 +309,3 @@ os.getcwd()
 
 
 
-'''
-# ## Note:
-# ### The trained KMeans clustering model works for Universities from the following states only:
-PA
-CA
-NY
-MA
-IL
-IN
-RI
-TX
-WI
-VA
-MI
-MD
-NJ
-DC
-NC
-NH
-CT
-'''
